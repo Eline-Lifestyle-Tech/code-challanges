@@ -3,7 +3,7 @@
 
 Este repositório serve como base para se inspirar e resolver problemas reais que podem servir de base para um projeto para o seu portfólio e muito mais,
 
-#### 🎯 Características:
+### 🎯 Características:
 Os desafios têm como ênfase `Estrutura de Dados` que é um conceito muito essencial nos ambientes de desenvolvimento de software.
 
 Sinta se a vontade para resolve-lo e qualquer dificuldade que tiver é só expor nos grupos que estão dentro da `Comunidade` que estaremos abertos para ajudá-lo. Então, bora chegar no fim da linha deste desafios? 🔥
