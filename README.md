@@ -1,5 +1,5 @@
 
-#### 🎯 Eline: Code-Challange
+### 🎯 Eline: Code-Challange
 
 Este repositório serve como base para se inspirar e resolver problemas reais que podem servir de base para um projeto para o seu portfólio e muito mais,
 
@@ -91,4 +91,4 @@ Sinta se a vontade para resolve-lo e qualquer dificuldade que tiver é só expor
 ---
 
 ##### 🗃️ Vem participar com a gente ? 🔥
-##### 🗃️ [Comunidade no WhatsApp](https://chat.whatsapp.com/JpL1PMj6gid7Dcb6L2MXdP) |  [Comunidade no Discord](discord.gg/aD7N9dhb)
+##### 🗃️ [Comunidade no WhatsApp](https://chat.whatsapp.com/JpL1PMj6gid7Dcb6L2MXdP) |  [Comunidade no Discord](https://discord.gg/aD7N9dhb)
